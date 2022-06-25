@@ -19,3 +19,6 @@ transfer_learning
 transfer_learning_scaling_up
 __MACOSX
 __pycache__
+food101
+tfds_food101
+tfds_food101_project
